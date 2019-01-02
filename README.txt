@@ -21,5 +21,7 @@ Practiced more basic Bootstrap elements to get overall understanding of what Boo
  -Progress Bars
  -Grid System
  -Font Awesome
- 
- Source: https://www.youtube.com/watch?v=5GcQtLDGXy8
+ <br/>
+**Sources for help** <br/>
+[Bootstrap Beginner Crash Course](https://www.youtube.com/watch?v=5GcQtLDGXy8)<br/>
+[Bootstrap 4 Navbar Examples](https://medium.com/wdstack/bootstrap-4-custom-navbar-1f6a2da5ed3c)
